@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-Portfolio of supervised learning projects built for COMP 4432 at the University of Denver. Each notebook follows a full end-to-end pipeline: exploratory data analysis → data preparation → baseline modeling → hyperparameter tuning → model selection.
+Portfolio of supervised and unsupervised learning projects built with skills and knowledge obtained via the University of Denver. Each notebook follows a full end-to-end pipeline: exploratory data analysis → data preparation → baseline modeling → hyperparameter tuning → model selection.
 
 > **Note:** GitHub's notebook renderer is currently experiencing issues. Use the nbviewer links below for a fully rendered view of each project.
 
